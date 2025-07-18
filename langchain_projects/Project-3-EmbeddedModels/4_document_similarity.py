@@ -17,7 +17,7 @@ multiple_docs = [
     "Jasprit Bumrah is an Indian fast bowler known for his unorthodox action and yorkers."
 ]
 
-query = "Who is known for virat in Indian cricket?"
+query = "Who is Jasprit Bumrah in Indian cricket?"
 
 docs_embedding = embeddings.embed_documents(multiple_docs)
 query_embedding = embeddings.embed_query(query)

@@ -19,6 +19,13 @@ transformers
 huggingface-hub
 langchain_community
 
+# Vector Stores
+# langchain-vectorstores
+# faiss-cpu
+sentence-transformers
+
+tf-keras==2.16.0
+
 # Environment Variable Management
 python-dotenv
 
